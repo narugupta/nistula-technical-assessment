@@ -147,7 +147,7 @@ frontend/
 ## 1. Clone the Repository
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/narugupta/nistula-technical-assessment
 cd nistula-technical-assessment
 ```
 
